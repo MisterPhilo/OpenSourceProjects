@@ -17,11 +17,11 @@
 
     module:Init({
         TweenLengthOther = number,          -- Time it takes for the beginning bars to fade in
-        TweenLengthText = number,           -- Time the text takes to fade and the fade out time
+        TweenLengthText = number,           -- Time the text takes to fade and the fade-out time
         GUI = Instance,                     -- For Custom GUIS
         TextFont = Enum.Font.Name,          -- The font you want it to be
         SongId = "rbxassetid://soundid"     -- Change the sound
-        Volume = number,                    -- Chnage the volume
+        Volume = number,                    -- Change the volume
     })
 
 ]]
